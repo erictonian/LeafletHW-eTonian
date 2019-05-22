@@ -18,22 +18,10 @@ body,
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
 
-.legend .low {
-    color: #ec8a2e;
-}
-
-.legend .empty {
-    color: #a0353a;
-}
-
-.legend .coming-soon {
-    color: #f4ba48;
-}
-
-.legend .healthy {
-    color: #1b904f;
-}
-
-.legend .out-of-order {
-    color: #007dff;
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.75;
 }
